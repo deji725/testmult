@@ -9,3 +9,6 @@ dependencies:
   - pandas
   - bokeh
   - rise
+  - mpl_toolkits
+  -IPython.display
+  - ipywidgets
